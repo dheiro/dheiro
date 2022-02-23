@@ -1,6 +1,6 @@
 # Hi there, I'm Ade 👋 
 
-[![Website](https://img.shields.io/website?label=dheiro.com&style=for-the-badge&url=https%3A%2F%2Fdheiro.com)](https://dheiro.com)
+[![Website](https://img.shields.io/website?label=dheiro.dev&style=for-the-badge&url=https%3A%2F%2Fdheiro.dev)](https://dheiro.dev)
 
 ## I'm a Software Engineer!!
 
@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://dheiro.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dheiro.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dheiro.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dheiro.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AdeYDP#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AdeYDP#gh-dark-mode-only)
