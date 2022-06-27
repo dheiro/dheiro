@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on eFishery
 - 🌱 I’m currently learning DevOps 🤣
-- 👯 I’m looking to collaborate on future business plan
-- 🥅 2022 Goals: Learn more about web3, Clean Architecture, and married  🤣
-- 💬 Ask me about how to coding chill
+- 👯 I’m looking to collaborate on tech business
+- 🥅 2022 Goals: Learn more about web3, Rust, and married  🤣
+- 💬 Ask me everything
 - ⚡ Fun fact: I can code from morning until morning xD
 
 ### Connect with me:
