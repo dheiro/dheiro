@@ -4,12 +4,10 @@
 
 ## I'm a Software Engineer!!
 
-- 🔭 I’m currently working on eFishery
-- 🌱 I’m currently learning DevOps 🤣
+- 🔭 I’m currently working on [eFishery](https://efishery.com)
+- 🌱 I’m currently learning DevOps, HomeLab 🤣
 - 👯 I’m looking to collaborate on tech business
-- 🥅 2022 Goals: Learn more about web3, Rust, and married  🤣
 - 💬 Ask me everything
-- ⚡ Fun fact: I can code from morning until morning xD
 
 ### Connect with me:
 
